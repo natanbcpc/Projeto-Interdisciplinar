@@ -17,13 +17,13 @@ Partes do projeto:
 •Logo
 
 Descrição do projeto:
-O projeto consiste em um sistema para desenvolver caças ao tesouro baseados em geolocalização e/ou qr code. Ele será desenvovlido para celulares Android e será compatível com Android Wear. Nele, será possível criar jogos, privados ou públicos, e entrar em um jogo público ou privado (onde se tenha sido convidado). Os jogos consistem de localizações (ou QR codes, a critério do usuário) que contém uma pista para o próximo, como um caça ao tesouro, que leva a uma pista final. Jogos privados (ou jogos públicos patrocinados) podem cadastrar um prêmio. Os jogos públicos devem contatar os desenvolvedores (pelo próprio aplicativo) para garantir a validade do prêmio. Com a participação em jogos públicos, o usuário ganhará moedas virtuais e experiência. As moedas virtuais podem ser utilizadas para comprar facilidades, como dicas extras, e acessórios para seu "mascote", que é sua representação no jogo. Já a experiência é usada para desbloquear novas opções de acessórios e para um ranking de pontuação.
+O projeto consiste em um sistema para desenvolver caças ao tesouro baseados em geolocalização e/ou qr code. Ele será desenvovlido para celulares Android e será compatível com Android Wear. Nele, será possível criar jogos, privados ou públicos, e entrar em um jogo público ou privado (onde se tenha sido convidado). Os jogos consistem de localizações (ou QR codes, a critério do usuário) que contém uma pista para o próximo, como um caça ao tesouro, que leva a uma pista final. Jogos privados (ou jogos públicos patrocinados) podem cadastrar um prêmio. Os jogos públicos devem contatar os desenvolvedores (pelo próprio aplicativo) para garantir a validade do prêmio. Com a participação em jogos públicos, o usuário ganhará moedas virtuais e experiência. As moedas virtuais podem ser utilizadas para comprar facilidades, como dicas extras, e acessórios para seu "mascote", que é a sua representação no jogo. Já a experiência é usada para desbloquear novas opções de acessórios e para o ranking de pontuação.
 
 Conhecimentos necessários:
 -Android (celular e smartwatch)
 -Interação com contas do Facebook e Google
 -QR Code
--Google Maps (web e Android)
+-Google Maps
 -Uso de propagandas em Android (para obter moedas)
 -Github
 
